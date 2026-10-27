@@ -1,0 +1,12 @@
+{
+  "name": "leapwork",
+  "owner": { "name": "Leapwork" },
+  "plugins": [
+    {
+      "name": "leapwork-play",
+      "description": "Create, run and debug Leapwork Play tests and runlists, build agents, and hand work to Play's AI workflows, right from GitHub Copilot.",
+      "version": "1.0.0",
+      "source": "./"
+    }
+  ]
+}
